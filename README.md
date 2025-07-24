@@ -1,15 +1,17 @@
-# portfolio
-my portfolio an introduction
+# Portfolio
+My portfolio an introduction
 
-# books to read 
-=== from Rodrigo Rubira Branco ===
-Books - super hard to do a top5:
--> Think like a Grandmaster
--> The Art of Software Security Assessment
--> Surely Your Joking Mr Feynman
--> The philosophy of set theory: An historical introduction to Cantor’s Paradise
--> The Art of Computer Programming
+# Books to Read
 
+### === From Rodrigo Rubira Branco ===  
+**Books - super hard to do a top5:**
 
-# links 
-https://archives.phrack.org/
+- [Think like a Grandmaster](https://www.amazon.in/Think-Like-Grandmaster-Algebraic-Classics/dp/0713478853)
+- The Art of Software Security Assessment  
+- Surely You're Joking Mr. Feynman  
+- The Philosophy of Set Theory: An Historical Introduction to Cantor’s Paradise  
+- The Art of Computer Programming  
+
+# Links
+- https://archives.phrack.org/
+
